@@ -1,0 +1,63 @@
+html
+Copy code
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Educación</title>
+    <style>
+        /* Estilos CSS aquí */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido al Sistema de Educación</h1>
+        <!-- Aquí puedes agregar el logo de la institución o cualquier otro elemento de encabezado -->
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Cursos</a></li>
+            <li><a href="#">Calendario</a></li>
+            <li><a href="#">Foro</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section>
+            <h2>Últimas Noticias</h2>
+            <article>
+                <!-- Aquí puedes agregar las últimas noticias o actualizaciones del sistema de educación -->
+            </article>
+        </section>
+        
+        <section>
+            <h2>Cursos Disponibles</h2>
+            <ul>
+                <li>Curso 1</li>
+                <li>Curso 2</li>
+                <li>Curso 3</li>
+                <!-- Puedes listar los cursos disponibles y enlazar a páginas de detalles de cada curso -->
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Eventos</h2>
+            <ul>
+                <li>Evento 1</li>
+                <li>Evento 2</li>
+                <li>Evento 3</li>
+                <!-- Puedes listar los eventos próximos y enlazar a páginas de detalles de cada evento -->
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Sistema de Educación. Todos los derechos reservados.</p>
+        <!-- Aquí puedes agregar información de contacto o enlaces a redes sociales -->
+    </footer>
+</body>
+</html>
